@@ -26,15 +26,15 @@
 <img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonbsj&layout=compact&hide_border=true&theme=dark" />
 <br />
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ailtonbsj&badges=5&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="50%"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ailtonbsj&badges=5&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="60%"
 />
 <br />
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ailtonbsj&skills=JavaScript,Vue,PHP,Shell,Python,Java,C,HTML" width="75%"
 />
+</div>
 
 ### 🚀 Recent project :
 - [WinuniX](https://github.com/winunix) - **A Lubuntu fork OS** for students and schools 
 - [ProxyLinux](https://github.com/winunix/proxy-linux) - App to automatic **switch proxy** on Chrome, Firefox and lubuntu system
 - [CredeOS](#) - An Admin dashboard for CREDE17 using **Laravel 8**, **Vue 2** and Vuetify
-</div>
