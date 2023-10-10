@@ -1,15 +1,14 @@
 <div align="center">
   <h1 align="center">José Ailton 🇧🇷</h1>
-  <a href="https://github.com/ailtonbsj">
-      <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
-    </a>
     <a href="https://www.linkedin.com/in/ailtonbsj/">
       <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" />
     </a>
     <a href="https://www.youtube.com/channel/UCNIOM56u0eFCcR0XHYom3ZQ">
       <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
     </a>
-      <img alt="ProfileViews" src="https://gpvc.arturio.dev/ailtonbsj" align="center" />
+    <a href="https://github.com/ailtonbsj">
+      <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
+    </a>
    <br/><br/>
    <p align="center">
     Third-year student in Information System at IFCE
@@ -34,7 +33,7 @@
 />
 </div>
 
-### 🚀 Recent project :
+### 🚀 Recent projects :
 - [SauteWeb](https://github.com/ailtonbsj/saute-web) - A Temporary Authorization System using **Angular**, **DexieJS** and ngMaterial.
 - [CredeOS](#) - An Admin dashboard for CREDE17 using **Laravel 8**, **Vue 2** and Vuetify
 - [WinuniX](https://github.com/winunix) - **A Lubuntu fork OS** for students and schools 
