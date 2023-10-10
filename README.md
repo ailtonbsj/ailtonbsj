@@ -3,11 +3,11 @@
     <a href="https://www.linkedin.com/in/ailtonbsj/">
       <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" />
     </a>
+    <a href="https://ailtonbsj.github.io/portfolio/">
+      <img alt="GitHub" src="https://img.shields.io/badge/My-portfolio-green" align="center" />
+    </a>
     <a href="https://www.youtube.com/channel/UCNIOM56u0eFCcR0XHYom3ZQ">
       <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
-    </a>
-    <a href="https://github.com/ailtonbsj">
-      <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
     </a>
    <br/><br/>
    <p align="center">
